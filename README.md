@@ -1,10 +1,10 @@
-# neural-network-from-scratch
-Implementation of a NN from scratch to predict housing prices.
+# neural-network-from-scratch<br/>
+Implementation of a NN from scratch to predict housing prices.<br/>
 
-# Methods Implemented:\
-  -Linear layer forward and backward pass.\
-  -Sigmoid layer forward and backward pass.\
-  -Adam and SGD Optimizers.\
-  -L1, MSE, and BCE losses.\
+# Methods Implemented:<br/>
+  -Linear layer forward and backward pass.<br/>
+  -Sigmoid layer forward and backward pass.<br/>
+  -Adam and SGD Optimizers.<br/>
+  -L1, MSE, and BCE losses.<br/>
   
 
