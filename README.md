@@ -1,4 +1,4 @@
-# neural-network-from-scratch<br/>
+# Implementation of a simple neural network from scratch<br/>
 Implementation of a NN from scratch to predict housing prices.<br/>
 
 # Methods Implemented:<br/>
